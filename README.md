@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/Yasserahmed899?logo=twitter&style=for
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yasserahmed899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasserahmed899" height="30" width="40" /></a>
+<a href="https://x.com/yasserahmed899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasserahmed899" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yasserahmeddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasserahmeddev" height="30" width="40" /></a>
 <a href="https://fb.com/10yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="10yasser" height="30" width="40" /></a>
 <a href="https://instagram.com/yasser_ahmed16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasser_ahmed16" height="30" width="40" /></a>
