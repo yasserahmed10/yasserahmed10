@@ -8,10 +8,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android developer
 -----------------
 
-I am an enthusiastic Android Developer with a solid foundation in software engineering, particularly in Java and Kotlin. My journey in Android development began during my Software Engineering studies at Ahram Canadian University, where I honed my skills through various academic and personal projects. I recently enhanced my expertise through a comprehensive Android Developer Trainee program at the Information Technology Institute (ITI), gaining hands-on experience in building, testing, and deploying Android applications using cutting-edge tools and technologies like REST APIs, JSON, Android Studio, Firebase, and Git.
+Certainly! Here's a rewritten version with a different style:  
 
-Currently, I'm a Software Engineering Trainee at Manara, where I am sharpening my problem-solving skills, studying data structures and algorithms, and improving my technical interview techniques through mock sessions. I am passionate about creating innovative mobile apps and am now seeking opportunities to contribute to dynamic projects as an Android Developer. I am eager to collaborate with experienced professionals, learn from industry mentors, and grow as a part of a forward-thinking team. My goal is to apply my skills to solve real-world problems and contribute to high-impact projects.
+---
 
+I am a passionate Android Developer with a strong background in software engineering, specializing in Java and Kotlin. My journey into the world of Android development started during my time at Ahram Canadian University, where I developed my skills through hands-on academic projects and self-driven learning.  
+
+To deepen my expertise, I completed an intensive Android Developer Trainee program at the Information Technology Institute (ITI). This experience allowed me to master the art of building, testing, and deploying Android applications using tools like REST APIs, JSON, Android Studio, Firebase, and Git.  
+
+Currently, I am advancing my technical acumen as a Software Engineering Trainee at Manara. Here, I focus on honing my problem-solving abilities, diving into data structures and algorithms, and sharpening my technical interview skills through rigorous practice and mock sessions.  
+
+I thrive on creating innovative mobile applications and am eager to bring my skills to impactful projects. My ambition is to collaborate with a team of forward-thinking professionals, contribute to solving real-world challenges, and grow through mentorship and teamwork. I'm ready to make a meaningful difference as an Android Developer.
 * 🌍  I'm based in Cairo,Egypt
 * ✉️  You can contact me at [yasserahmed.fci@gmail.com](mailto:yasserahmed.fci@gmail.com)
 * 🧠  I'm learning Android Development
