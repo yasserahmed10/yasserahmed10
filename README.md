@@ -8,9 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android developer
 -----------------
 
-Certainly! Here's a rewritten version with a different style:  
 
----
 
 I am a passionate Android Developer with a strong background in software engineering, specializing in Java and Kotlin. My journey into the world of Android development started during my time at Ahram Canadian University, where I developed my skills through hands-on academic projects and self-driven learning.  
 
