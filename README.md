@@ -10,11 +10,7 @@ Android developer
 
 
 
-I am a passionate Android Developer with a strong background in software engineering, specializing in Java and Kotlin. My journey into the world of Android development started during my time at Ahram Canadian University, where I developed my skills through hands-on academic projects and self-driven learning.  
-
-To deepen my expertise, I completed an intensive Android Developer Trainee program at the Information Technology Institute (ITI). This experience allowed me to master the art of building, testing, and deploying Android applications using tools like REST APIs, JSON, Android Studio, Firebase, and Git.  
-
-Currently, I am advancing my technical acumen as a Software Engineering Trainee at Manara. Here, I focus on honing my problem-solving abilities, diving into data structures and algorithms, and sharpening my technical interview skills through rigorous practice and mock sessions.  
+As an Android Developer Trainee at The Chance, I apply my software engineering skills and knowledge to create innovative mobile applications. I have a Bachelor of Computer Science degree from Ahram Canadian University, where I studied software engineering. I also completed various courses in Java, Kotlin, algorithms, data structures, source control, and SOLID software design principles. I have experience in conducting mock technical interviews and peer-to-peer practice sessions, which helped me refine my problem-solving techniques and communication skills. I am passionate about learning new technologies and improving my coding skills. I am always eager to collaborate with other developers and contribute to the development of high-quality software solutions. 
 
 I thrive on creating innovative mobile applications and am eager to bring my skills to impactful projects. My ambition is to collaborate with a team of forward-thinking professionals, contribute to solving real-world challenges, and grow through mentorship and teamwork. I'm ready to make a meaningful difference as an Android Developer.
 * 🌍  I'm based in Cairo,Egypt
