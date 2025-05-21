@@ -66,3 +66,7 @@ src="https://img.shields.io/twitter/follow/Yasserahmed899?logo=twitter&style=for
 
 
 <br /><br /><br /><br /><br /><br /><br />
+
+<img src="https://raw.githubusercontent.com/yasserahmed10/yasserahmed10/output/snake.svg" alt="Snake animation" />
+
+###
