@@ -10,9 +10,9 @@ Android developer
 
 
 
-As an Android Developer Trainee at The Chance, I apply my software engineering skills and knowledge to create innovative mobile applications. I have a Bachelor of Computer Science degree from Ahram Canadian University, where I studied software engineering. I also completed various courses in Java, Kotlin, algorithms, data structures, source control, and SOLID software design principles. I have experience in conducting mock technical interviews and peer-to-peer practice sessions, which helped me refine my problem-solving techniques and communication skills. I am passionate about learning new technologies and improving my coding skills. I am always eager to collaborate with other developers and contribute to the development of high-quality software solutions. 
+Currently an Android Developer Trainee at The Chance, applying knowledge of Kotlin and Java to develop secure and efficient mobile applications. Graduated with a Bachelor of Computer Science from Ahram Canadian University in July 2023, with a focus on software engineering.  
 
-I thrive on creating innovative mobile applications and am eager to bring my skills to impactful projects. My ambition is to collaborate with a team of forward-thinking professionals, contribute to solving real-world challenges, and grow through mentorship and teamwork. I'm ready to make a meaningful difference as an Android Developer.
+Completed rigorous training programs, including Android development at ITI and software engineering training at Manara, emphasizing algorithms, data structures, and communication skills. Driven to refine technical skills while collaborating on innovative projects that deliver high-quality solutions.
 * 🌍  I'm based in Cairo,Egypt
 * ✉️  You can contact me at [yasserahmed.fci@gmail.com](mailto:yasserahmed.fci@gmail.com)
 * 🧠  I'm learning Android Development
