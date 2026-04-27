@@ -1,72 +1,80 @@
-![header_](https://user-images.githubusercontent.com/59229510/228429704-22483efd-ac2f-4908-9d9f-d5e72728a011.png)
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/59229510/228429704-22483efd-ac2f-4908-9d9f-d5e72728a011.png"  />
+</div>
 
+###
 
-![](assets/Bottom_up.svg)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yasser Ahmed
-====================================================================================================================================
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Android developer
------------------
+###
 
+<p align="left">Graduated with a Bachelor of Computer Science in Software Engineering from Ahram Canadian University in July 2023. Focused on Android development and modern technologies such as Kotlin and Jetpack Compose throughout academic and professional experiences.  <br><br>Currently working as a DECI Coding Instructor at iSchool. Previously contributed as an Android Developer Trainee at The Chance, where they collaborated with cross-functional teams on scalable app solutions utilizing MVVM/Clean Architecture and Material Design guidelines. Core strengths include team collaboration, modularization, and project management, with additional proficiency in Git/GitHub, Firebase services, and unit testing.</p>
 
+###
 
-Graduating with a Bachelor of Computer Science in Software Engineering from Ahram Canadian University, I focused on Android development and modern technologies like Kotlin and Jetpack Compose. My most recent role as an Android Developer Trainee at The Chance allowed me to collaborate with teams on scalable app solutions, applying MVVM/Clean Architecture and Material Design principles. 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+</div>
 
-I am skilled in team collaboration, modularization, and project management while leveraging tools like Git/GitHub and Firebase services. My commitment to delivering responsive, user-friendly applications pairs with a strong foundation in data structures, algorithms, and unit testing practices.
-* 🌍  I'm based in Cairo,Egypt
-* ✉️  You can contact me at [yasserahmed.fci@gmail.com](mailto:yasserahmed.fci@gmail.com)
-* 🧠  I'm learning Android Development
-* 🤝  I'm open to collaborating on Interesting Projects
-* 💬 Ask me about **Kotlin,Java,Android,Git,OOP,DSA etc...**
-* 👨‍💻 All of my projects are available at [https://github.com/yasserahmed10](https://github.com/yasserahmed10)
+###
 
-<a href="https://www.github.com/yasserahmed10" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yasserahmed10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Yasserahmed899" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Yasserahmed899?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
 
-### Skills
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasserahmed10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasserahmed10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yasserahmed10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="left">
-  </a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+###
 
-</p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/yasserahmed899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasserahmed899" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasserahmeddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasserahmeddev" height="30" width="40" /></a>
-<a href="https://fb.com/10yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="10yasser" height="30" width="40" /></a>
-<a href="https://instagram.com/yasser_ahmed16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasser_ahmed16" height="30" width="40" /></a>
-<a href="https://medium.com/@yasser10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yasser10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yasserahmed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yasserahmed10" height="30" width="40" /></a>
-<a href="https://discord.gg/yasser10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yasser10" height="30" width="40" /></a>
-</p>
-
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/yasserahmed10"><img src="https://github-readme-stats.vercel.app/api?username=yasserahmed10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yasserahmed10's GitHub stats" /></a>
-
-<a href="http://www.github.com/yasserahmed10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserahmed10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/yasserahmed10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserahmed10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/yasserahmed10/Assiut-University-Training---Newcomers-Kotlin-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasserahmed10&repo=Assiut-University-Training---Newcomers-Kotlin-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="yasserahmed10" /> </p>
-
-
-
-<br /><br /><br /><br /><br /><br /><br />
-
-<img src="https://raw.githubusercontent.com/yasserahmed10/yasserahmed10/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasserahmed10/yasserahmed10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasserahmed10/yasserahmed10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasserahmed10/yasserahmed10/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
